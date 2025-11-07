@@ -1,0 +1,7 @@
+numpy==2.3.4
+pandas==2.3.3
+streamlit==1.49.1
+matplotlib==3.8.0   
+scikit-learn==1.3.2
+MAPIE == 0.7.3
+xgboost==1.7.6
