@@ -31,7 +31,7 @@ st.markdown(
         """,
         unsafe_allow_html=True,
 )
-st.markdown("<p style='text-align:center; color:#ffffff; font-size:20px; margin-top:0.25rem;'>Utilize our advanced Machine Learning application to predict traffic volume.</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align:center; font-size:20px; margin-top:0.25rem;'>Utilize our advanced Machine Learning application to predict traffic volume.</p>", unsafe_allow_html=True)
 st.image("traffic_image.gif", use_container_width =True)
 
 # Load the trained model
